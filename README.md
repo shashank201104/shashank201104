@@ -1,3 +1,3 @@
-- 👋 Hi, I’m shashank
+- 👋 Hi, I’m shashank.
 - 🌱 I’m currently pursuing bachelor in Computer Science at Delhi University.
 - email:- shashanksaini201104@gmail.com
