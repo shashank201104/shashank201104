@@ -26,11 +26,6 @@
   A web-based healthcare dashboard providing tools like BMI calculator and stress calculator to help users monitor their health.
 ---
 
-## 📊 GitHub Stats
-
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashank201104\&show_icons=true)
-
----
 
 ## 📫 Contact
 
