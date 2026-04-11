@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shashank
 
-🎓 **MCA Student** at the **Department of Computer Science, University of Delhi**
-💻 Interested in **Software Development, Data Structures & Algorithms, and Web Development**
+* 🎓 **MCA Student** at the **Department of Computer Science, University of Delhi**
+* 💻 Interested in **Software Development, Data Structures & Algorithms, and Web Development**
 
 ---
 
